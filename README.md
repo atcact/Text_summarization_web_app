@@ -20,5 +20,5 @@ To install and run the Text Summarization Web App, follow these steps:
 1. Clone the repository
 2. Navigate to the project directory
 3. Install the required Python libraries using pip
-4. Run the Flask server
+4. Run the Flask server in app.py
 5. Open a web browser and visit http://localhost:5000 to access the app
