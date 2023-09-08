@@ -8,11 +8,11 @@ This web application utilizes TF-IDF and TextRank algorithms to generate summari
 
 The Text Summarization Web App is built using the following technologies and libraries:
 
-Python: The backend is developed in Python programming language.
-Flask: A lightweight web framework is used to create the web application.
-HTML/CSS: The frontend interface is designed using HTML for structure and CSS for styling.
-TF-IDF Algorithm: Term Frequency-Inverse Document Frequency is used to calculate the importance of words in the text.
-TextRank Algorithm: A graph-based ranking algorithm is employed to identify the most relevant sentences for summarization.
+1. Python: The backend is developed in Python programming language.
+2. Flask: A lightweight web framework is used to create the web application.
+3. HTML/CSS: The frontend interface is designed using HTML for structure and CSS for styling.
+4. TF-IDF Algorithm: Term Frequency-Inverse Document Frequency is used to calculate the importance of words in the text.
+5. TextRank Algorithm: A graph-based ranking algorithm is employed to identify the most relevant sentences for summarization.
 
 ## How to Install
 
