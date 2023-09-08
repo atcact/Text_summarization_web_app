@@ -1,9 +1,10 @@
-# Text_summarization_web_app
-Introduction
+# Text summarization web app
+
+## Introduction
 
 This web application utilizes TF-IDF and TextRank algorithms to generate summaries for input text. It provides an efficient way to condense lengthy articles, documents, or any text into concise summaries.
 
-Technical Overview
+## Technical Overview
 
 The Text Summarization Web App is built using the following technologies and libraries:
 
@@ -13,7 +14,7 @@ HTML/CSS: The frontend interface is designed using HTML for structure and CSS fo
 TF-IDF Algorithm: Term Frequency-Inverse Document Frequency is used to calculate the importance of words in the text.
 TextRank Algorithm: A graph-based ranking algorithm is employed to identify the most relevant sentences for summarization.
 
-How to Install
+## How to Install
 
 To install and run the Text Summarization Web App, follow these steps:
 
